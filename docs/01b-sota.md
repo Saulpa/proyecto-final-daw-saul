@@ -13,8 +13,8 @@ Búsqueda hecha con buscadores web (DuckDuckGo y Google) y navegación directa d
 | P3 | ¿Qué tecnologías usan para el 3D y los recorridos 360º? | threejs.org (ejemplo de carrocería), GitHub (licencia del proyecto), mhp.com (configurador de CUPRA) y cloudpano.com | 2026-11-13 |
 | P4 | ¿Qué tamaño tiene el mercado español de vehículos de ocasión? | Notas de prensa de Faconauto (faconauto.com) y nota de prensa de Wallapop | 2026-11-13 |
 | P5 | ¿Qué propone la alternativa no digital (revisión física y papeleo) a la hora de comprar un coche de ocasión? | Guía «Comprar coche de segunda mano» de la OCU | 2026-11-13 |
-| P6 | ¿Qué concesionarios online de ocasión ofrecen ya vistas 360º o 3D en sus fichas? | Webs oficiales de concesionarios online (por determinar) | pendiente |
-| P7 | ¿Qué componentes 3D ya hechos (visores embebibles) existen y qué limitan frente a three.js? | Documentación oficial de `<model-viewer>` y de Sketchfab (por determinar) | pendiente |
+
+**Preguntas pendientes.** P6: ¿qué concesionarios online de ocasión ofrecen ya vistas 360º o 3D en sus fichas? (webs oficiales, todavía por determinar). P7: ¿qué componentes 3D ya hechos existen y qué limitan frente a three.js? (documentación de `<model-viewer>` y de Sketchfab, todavía por determinar).
 
 ## 2. Soluciones existentes (CE 1a, 1c, 2a)
 
@@ -27,8 +27,8 @@ Búsqueda hecha con buscadores web (DuckDuckGo y Google) y navegación directa d
 | **CloudPano** | Concesionarios y profesionales que quieren recorrer un vehículo o un inmueble en 360º | Software en la nube de recorridos 360º y «spins» (giros) de vehículo, con embebido en la web y creación desde el móvil | Freemium: 3 recorridos gratis que caducan a los 120 días; plan PRO 27 $/mes; plan PRO PLUS 33 $/mes facturado anualmente | https://www.cloudpano.com/learn/cloudpano-pricing (2026-11-13) | `leído` |
 | **three.js**, ejemplo `webgl_materials_car` | Desarrolladores web | Biblioteca JavaScript de gráficos 3D en el navegador con WebGL; el ejemplo «car materials» pinta la carrocería de un Ferrari 458 Italia sobre su modelo (autor: vicent091036) | Gratuita y de código abierto (licencia MIT) | https://threejs.org/examples/webgl_materials_car.html y https://raw.githubusercontent.com/mrdoob/three.js/dev/LICENSE (2026-11-13) | `leído` |
 | **Guía de compra de coche de segunda mano de la OCU** (alternativa no digital) | Consumidores particulares | Proceso físico de compra: revisión del coche y prueba en carretera, contratación de una revisión profesional, revisión de papeles y negociación del precio con guías de valores; sin plataforma ni visualización 3D | Servicio de la OCU (contenido generalmente para socios); el proceso descrito no exige coste de plataforma | https://www.ocu.org/coches/coches/informe/comprar-coche-segunda-mano (2026-11-13) | `leído` |
-| **Concesionarios online de ocasión** (por determinar) | Compradores particulares | Pendiente de comprobar si ofrecen vistas 360º o 3D | Pendiente | Pendiente (P6) | `sin leer` |
-| **`<model-viewer>` / Sketchfab** (por determinar) | Desarrolladores web | Pendiente de comprobar qué control de cámara, transiciones y materiales permiten | Pendiente | Pendiente (P7) | `sin leer` |
+
+**Pendiente de comprobar (aún no son soluciones revisadas).** P6: si algún concesionario online de ocasión ofrece vistas 360º o 3D en sus fichas. P7: qué control de cámara, transiciones y materiales permiten `<model-viewer>` y Sketchfab.
 
 ## 3. Modelos de negocio (CE 1d, 1e)
 
